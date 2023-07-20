@@ -1,3 +1,6 @@
+🌟QR Code Generator🌟
+<img width="250" alt="QRCodeGenerator" src="https://github.com/LearnerAnuja/QR_CODE_GENERATOR/assets/96904529/b686e7d4-ac2f-4557-9b33-76c325115713">
+
 Initial SetUp (HTML Code):
 
 The HTML page sets up a container 📦 that holds various elements.
